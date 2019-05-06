@@ -24,6 +24,7 @@ List
 * [tss](http://www.muni.cz/ics/services/csirt/tools/tss)
 * [Honeyscan](http://www.muni.cz/ics/services/csirt/tools/honeyscan)
 * [nfplugger - Plugin template generator](http://sourceforge.net/projects/nfplugger/)
+* [ddd - Dynamic DDoS Detector](https://github.com/tbino/nfsen-plugins/blob/master/ddd.zip)
 
 Contributing
 ------------
